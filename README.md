@@ -127,6 +127,8 @@ Lauren Tan ([poteto](https://github.com/poteto))
 
 Lea Verou ([LeaVerou](https://github.com/LeaVerou))
 
+Vasilika ([Likita](https://github.com/Likita))
+
 Loiane Groner ([loiane](https://github.com/loiane))
 
 Lucie ([patjouk](https://github.com/patjouk))

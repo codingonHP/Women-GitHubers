@@ -21,6 +21,8 @@ Ankita Shukla ([ankitashukla](https://github.com/ankitashukla))
 
 Amy Palamountain ([ammeep](https://github.com/ammeep))
 
+Anjana Sofia Vakil ([vakila](https://github.com/vakila))
+
 Anna Warzecha ([aniav](https://github.com/aniav))
 
 Annu Joshi ([AnnuJoshi](https://github.com/AnnuJoshi))
